@@ -1,0 +1,16 @@
+# install
+yarn add -D tailwindcss postcss autoprefixer vite
+
+# add postcss.config.js
+
+# create a Tailwind configuration file
+npx tailwind init
+
+#Run dev server
+npm run dev
+
+#Plugins
+yarn add @tailwindcss/typography
+https://github.com/tailwindlabs/tailwindcss-typography
+yarn add @tailwindcss/forms
+https://tailwindcssforms.vercel.app 
